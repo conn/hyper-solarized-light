@@ -1,9 +1,8 @@
 {
-  "name": "@conn/hyper-solarized-light",
+  "name": "@__conn__/hyper-solarized-light",
   "version": "0.0.0",
   "description": "Solarized Light Theme for Hyper",
   "main": "index.js",
-
   "keywords": [
     "hyperterm",
     "hyperterm-theme",
@@ -14,21 +13,16 @@
     "solarized",
     "light"
   ],
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/conn/hyper-solarized-light.git"
   },
-
   "author": "JD Friedrikson",
   "license": "BSD-3-Clause",
-
   "bugs": {
     "url": "https://github.com/conn/hyper-solarized-light/issues"
   },
-
   "homepage": "https://github.com/conn/hyper-solarized-light#readme",
-
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
